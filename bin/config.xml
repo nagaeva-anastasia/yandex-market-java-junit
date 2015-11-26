@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tests>
+  <test>
+  	<browser>Chrome</browser>
+  	<priceFrom>5000</priceFrom>
+  	<priceTo>10000</priceTo>
+  	<type>смартфон/коммуникатор</type>
+  	<platform>Android</platform>
+  </test>
+  <test>
+  	<browser>Firefox</browser>
+  	<priceFrom>30000</priceFrom>
+  	<priceTo>60000</priceTo>
+  	<type>смартфон/коммуникатор</type>
+  	<platform>iOS</platform>
+  </test>   
+  <test>
+  	<browser>IE</browser>
+  	<priceFrom>1000</priceFrom>
+  	<priceTo>9000</priceTo>
+  	<type>смартфон/коммуникатор</type>
+  	<platform>Asha</platform>
+  </test>				
+</tests>
